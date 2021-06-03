@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered, for stamping all the broad coyn of the kingdom.</title>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28751</idno><idno type="EEBO-CITATION">99885589</idno>
+  <idno type="VID">185362</idno>
+  <idno type="EEBO-PROQUEST">2240880363</idno>
+  
+            <idno type="STC">Wing R542</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.10[39]</idno>
+            <idno type="STC">ESTC R224683</idno>
+            <idno type="PROQUEST">ocm99885589</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885589e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28751)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185362)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:2[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered, for stamping all the broad coyn of the kingdom.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coinage --  Early works to 1800.</term>
+               <term type="topical_term">Money --  Early works to 1800.</term>
+               <term type="topical_term">Adulterated coins --  Early works to 1800.</term>
+               <term type="topical_term">Counterfeits and counterfeiting --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185362:1"/>
+            <head>REASONS Humbly Offered, for STAMPING all the BROAD <hi>Coyn of the Kingdom.</hi>
+            </head>
+            <p n="1">
+               <hi>1st.</hi> IT may be presumed, if the broad Coyn be not stamped, the Nation will loose a Million before the next Session of Parliament, which if Stamped is as well Protected from the Clipper as the Mill'd Money, and consequently Preserved.</p>
+            <p n="2">
+               <hi>2dly.</hi> It may be reasonably Conjectured, that the Clippers will make the best use of their time, if nothing be done to prevent them this Session of Parliament.</p>
+            <p n="3">
+               <hi>3dly.</hi> The Stamp will Discover and Detect all the Brass cased Mo<g ref="char:EOLhyphen"/>ney; also Destroy and Break in pieces all the Brittle Coun<g ref="char:EOLhyphen"/>terfeit Money, the Stamp preserving the Broad Money will Break the Clipper, and in a great measure Destroy the Coyner, the Clipper helping the Coyner to Silver.</p>
+            <p n="4">
+               <hi>4thly.</hi> The Stamping all the Old Broad Money, will not only Pre<g ref="char:EOLhyphen"/>serve it from the Clipper, but also save the King a Hundred Thou<g ref="char:EOLhyphen"/>sand pound in Coynage, there being no occasion to call it to the Mint, the Stamp being struck so deep will not ware out so long as the Money will last, and People will be the more willing to let their Broad Money goe, not doubting but to meet with the like again.</p>
+            <p n="5">
+               <hi>5thly.</hi> This will prevent the great Charge of the Mint, and keep the Old Broad Money in its present Currant, which if called in, the Subject would want in the mean time: These measures ta<g ref="char:EOLhyphen"/>ken, the Necessities of the Kingdom will be much sooner supply<g ref="char:EOLhyphen"/>ed, by Reason none but the Clipt Money will be called in.</p>
+            <p n="6">
+               <hi>6thly.</hi> It's Humbly Hoped, these Methods Proposed for Stamping the Coyn, being no way Compulsive nor Disagreeable to any well meaning Man's Affairs, will not be Complained of by any; every Man enjoying his own immediately, the Broad Money be<g ref="char:EOLhyphen"/>ing of no less value after Stamped then before, and he the same Power of keeping it by him as before; It's hoped therefore, no Man will Dislike of the Stamping, nor Refuse to bring in their Broad Money, (excepting) such as have some evil De<g ref="char:EOLhyphen"/>signes or Dealings with Clippers, for which there is a punish<g ref="char:EOLhyphen"/>ing Clause for all such Offenders.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
